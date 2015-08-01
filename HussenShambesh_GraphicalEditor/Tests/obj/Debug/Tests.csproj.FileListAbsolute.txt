@@ -1,0 +1,4 @@
+C:\Users\shambeshh\Documents\HussenShambesh\HussenShambesh_GraphicalEditor\Tests\bin\Debug\Tests.dll
+C:\Users\shambeshh\Documents\HussenShambesh\HussenShambesh_GraphicalEditor\Tests\bin\Debug\Tests.pdb
+C:\Users\shambeshh\Documents\HussenShambesh\HussenShambesh_GraphicalEditor\Tests\obj\Debug\Tests.dll
+C:\Users\shambeshh\Documents\HussenShambesh\HussenShambesh_GraphicalEditor\Tests\obj\Debug\Tests.pdb

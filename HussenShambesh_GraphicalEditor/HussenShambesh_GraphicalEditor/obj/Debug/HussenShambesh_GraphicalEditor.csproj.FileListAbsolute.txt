@@ -1,0 +1,13 @@
+C:\Users\shambeshh\Documents\HussenShambesh\HussenShambesh_GraphicalEditor\HussenShambesh_GraphicalEditor\bin\Debug\HussenShambesh_GraphicalEditor.exe.config
+C:\Users\shambeshh\Documents\HussenShambesh\HussenShambesh_GraphicalEditor\HussenShambesh_GraphicalEditor\bin\Debug\HussenShambesh_GraphicalEditor.exe
+C:\Users\shambeshh\Documents\HussenShambesh\HussenShambesh_GraphicalEditor\HussenShambesh_GraphicalEditor\bin\Debug\HussenShambesh_GraphicalEditor.pdb
+C:\Users\shambeshh\Documents\HussenShambesh\HussenShambesh_GraphicalEditor\HussenShambesh_GraphicalEditor\bin\Debug\Castle.Core.dll
+C:\Users\shambeshh\Documents\HussenShambesh\HussenShambesh_GraphicalEditor\HussenShambesh_GraphicalEditor\bin\Debug\Ninject.dll
+C:\Users\shambeshh\Documents\HussenShambesh\HussenShambesh_GraphicalEditor\HussenShambesh_GraphicalEditor\bin\Debug\Ninject.Extensions.Conventions.dll
+C:\Users\shambeshh\Documents\HussenShambesh\HussenShambesh_GraphicalEditor\HussenShambesh_GraphicalEditor\bin\Debug\Ninject.Extensions.Factory.dll
+C:\Users\shambeshh\Documents\HussenShambesh\HussenShambesh_GraphicalEditor\HussenShambesh_GraphicalEditor\bin\Debug\Castle.Core.xml
+C:\Users\shambeshh\Documents\HussenShambesh\HussenShambesh_GraphicalEditor\HussenShambesh_GraphicalEditor\bin\Debug\Ninject.xml
+C:\Users\shambeshh\Documents\HussenShambesh\HussenShambesh_GraphicalEditor\HussenShambesh_GraphicalEditor\bin\Debug\Ninject.Extensions.Conventions.xml
+C:\Users\shambeshh\Documents\HussenShambesh\HussenShambesh_GraphicalEditor\HussenShambesh_GraphicalEditor\bin\Debug\Ninject.Extensions.Factory.xml
+C:\Users\shambeshh\Documents\HussenShambesh\HussenShambesh_GraphicalEditor\HussenShambesh_GraphicalEditor\obj\Debug\HussenShambesh_GraphicalEditor.exe
+C:\Users\shambeshh\Documents\HussenShambesh\HussenShambesh_GraphicalEditor\HussenShambesh_GraphicalEditor\obj\Debug\HussenShambesh_GraphicalEditor.pdb
